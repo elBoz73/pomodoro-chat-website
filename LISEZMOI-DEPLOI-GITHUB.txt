@@ -1,0 +1,17 @@
+Deploiement GitHub Pages — pomodoro-chat-website
+
+Commande unique (lint + typecheck + build + tests + push) :
+  npm run deploy:github-pages
+
+Build + tests sans deploy :
+  npm run test:github-pages
+
+Deploy manuel (apres test:github-pages) :
+  Copier TOUT le contenu de out/ a la RACINE du repo pomodoro-chat-website
+
+IMPORTANT: remplacer tout le contenu (pas de melange ancien/nouveau).
+Le dossier assets/ doit exister (ex-_next renomme).
+
+Test apres deploy (~1 min):
+  https://elboz73.github.io/pomodoro-chat-website/fr/
+  https://elboz73.github.io/pomodoro-chat-website/assets/static/chunks/webpack-*.js

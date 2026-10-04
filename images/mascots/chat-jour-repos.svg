@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <path d="M176,206 C200,204 210,182 198,166 C190,156 180,162 182,172" stroke="#3A3C32" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M64,196 C60,150 86,112 120,112 C154,112 180,150 176,196 C173,220 146,228 120,228 C94,228 67,220 64,196 Z" stroke="#3A3C32" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M84,100 L76,66 L104,88 Z" stroke="#3A3C32" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M156,100 L164,66 L136,88 Z" stroke="#3A3C32" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M100,120 C104,116 112,116 116,120" stroke="#3A3C32" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+  <path d="M124,120 C128,116 136,116 140,120" stroke="#3A3C32" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+  <path d="M120,133 C120,138 114,140 109,138" stroke="#3A3C32" stroke-width="1.8" stroke-linecap="round" fill="none"/>
+  <path d="M120,133 C120,138 126,140 131,138" stroke="#3A3C32" stroke-width="1.8" stroke-linecap="round" fill="none"/>
+  <path d="M92,126 L68,122 M92,132 L67,134 M148,126 L172,122 M148,132 L173,134" stroke="#3A3C32" stroke-width="1.4" stroke-linecap="round" fill="none"/>
+  <path d="M100,207 C100,197 108,193 112,197 C114,200 112,207 108,209" stroke="#3A3C32" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M132,207 C132,197 128,193 124,197 C122,200 124,207 128,209" stroke="#3A3C32" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M116,128 L124,128 L120,133 Z" fill="#3A3C32"/>
+  <path d="M105,140 C105,137.51 101.87,135.5 98,135.5 C94.13,135.5 91,137.51 91,140 C91,142.49 94.13,144.5 98,144.5 C101.87,144.5 105,142.49 105,140 Z" fill="#7C9473" fill-opacity="0.35"/>
+  <path d="M149,140 C149,137.51 145.87,135.5 142,135.5 C138.13,135.5 135,137.51 135,140 C135,142.49 138.13,144.5 142,144.5 C145.87,144.5 149,142.49 149,140 Z" fill="#7C9473" fill-opacity="0.35"/>
+</svg>

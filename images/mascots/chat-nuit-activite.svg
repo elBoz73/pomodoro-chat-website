@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <path d="M168,176 C210,182 236,176 236,166 C224,172 200,170 180,164 C214,166 232,150 226,138 C216,150 192,156 176,154" stroke="#E86EF2" stroke-width="2.2" stroke-linecap="round" stroke-opacity="0.85" fill="none"/>
+  <path d="M72,166 C58,134 82,106 120,106 C158,106 182,134 168,166 C158,190 146,200 120,200 C94,200 82,190 72,166 Z" stroke="#EDE6FF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M100,118 C104,114 112,114 116,118" stroke="#EDE6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M124,118 C128,114 136,114 140,118" stroke="#EDE6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M120,130 C120,135 114,137 109,135" stroke="#EDE6FF" stroke-width="1.6" stroke-linecap="round" fill="none"/>
+  <path d="M120,130 C120,135 126,137 131,135" stroke="#EDE6FF" stroke-width="1.6" stroke-linecap="round" fill="none"/>
+  <path d="M148,194 C148,190.1 135.5,187 120,187 C104.5,187 92,190.1 92,194 C92,197.9 104.5,201 120,201 C135.5,201 148,197.9 148,194 Z" stroke="#EDE6FF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M96,206 C96,198 102,195 106,198" stroke="#EDE6FF" stroke-width="1.8" stroke-linecap="round" fill="none"/>
+  <path d="M144,206 C144,198 138,195 134,198" stroke="#EDE6FF" stroke-width="1.8" stroke-linecap="round" fill="none"/>
+  <path d="M116,124 L124,124 L120,129 Z" fill="#EDE6FF"/>
+  <path d="M178,112 C178,80 152,54 120,54 C88,54 62,80 62,112 C62,144 88,170 120,170 C152,170 178,144 178,112 Z" stroke="#5FE8E0" stroke-width="2.6" fill="none"/>
+  <path d="M78,80 C96,66 144,66 162,80" stroke="#5FE8E0" stroke-width="1.4" stroke-opacity="0.6" fill="none"/>
+  <path d="M34,54 L36,56 L34,58 L32,56 Z" fill="#5FE8E0" fill-opacity="0.8"/>
+  <path d="M206,67.6 L208.4,70 L206,72.4 L203.6,70 Z" fill="#5FE8E0" fill-opacity="0.8"/>
+  <path d="M30,188.2 L31.8,190 L30,191.8 L28.2,190 Z" fill="#5FE8E0" fill-opacity="0.8"/>
+</svg>

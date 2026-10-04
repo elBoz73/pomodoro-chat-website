@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://elboz73.github.io/pomodoro-chat-website/sitemap.xml
